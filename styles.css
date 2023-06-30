@@ -1,0 +1,31 @@
+* {
+    line-height: 2;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.front {
+    background-color: antiquewhite;
+    text-align: center;
+    border-style: solid;
+}
+
+.underline {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.container {
+    border-style: solid;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
